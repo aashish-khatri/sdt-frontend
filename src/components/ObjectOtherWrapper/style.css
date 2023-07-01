@@ -1,0 +1,14 @@
+.object-other-wrapper {
+  height: 557px;
+  position: relative;
+  width: 492px;
+}
+
+.object-other-wrapper .object-other-2 {
+  height: 543px;
+  left: -31px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 554px;
+}

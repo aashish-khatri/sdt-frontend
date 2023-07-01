@@ -1,0 +1,14 @@
+.object-other {
+  height: 568px;
+  position: relative;
+  width: 485px;
+}
+
+.object-other .img {
+  height: 553px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 526px;
+}
