@@ -1,4 +1,4 @@
-## SDT Frontend
+## SDT FRONTEND
 
 ## Getting started
 
